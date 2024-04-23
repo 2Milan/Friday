@@ -1,0 +1,9 @@
+{
+  "vscode": {
+    "command": ["Открываю", "Выполняю"],
+    "cmd": ["C:\\Users\\SystemX\\AppData\\Local\\Programs\\Microsoft VS Code\\code.exe"]
+  },
+  "voice": {
+    "command": ["Открываю", "Выполняю"]
+   }
+}

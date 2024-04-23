@@ -1,0 +1,10 @@
+{
+  "open_browser": {
+    "command": ["Открываю браузер", "Открываю", "Выполняю"],
+    "cmd": ["C:\\Users\\SystemX\\AppData\\Local\\Programs\\Opera GX\\opera.exe"]
+  },
+  "music": {
+    "command": ["Открываю музыку", "Открываю", "Выполняю"],
+    "cmd": ["C:\\Users\\SystemX\\AppData\\Local\\Programs\\Opera GX\\opera.exe https://www.youtube.com/watch?v=sca4VG9b0NY"]
+  }
+}
